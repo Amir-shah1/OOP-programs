@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>SlotManagementSystemApp</name>
+=======
+            <name>Assignment1</name>
+>>>>>>> 087b8b931815858c0929683b72f27013c69f7b78
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
